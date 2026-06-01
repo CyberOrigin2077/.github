@@ -67,7 +67,8 @@ We own **every link in the chain**. Break one and intelligence starves. So we bu
 
 ## ◢◤ RELENTLESS BY DESIGN
 
-> ### 极致不是目标。极致是地板。
+> ### 「極限は目標じゃない。それが最低ラインだ。」
+> *The limit isn't the goal — it's the floor.*
 
 - **Reality, not guesses.** Synthetic data is a rumor about the world. We deal in the world.
 - **Quality is the product.** A dataset you can't trust is a liability. Ours is verified to the frame.
