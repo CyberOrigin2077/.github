@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⟁ C Y B E R O R I G I N ⟁
+<img src="https://raw.githubusercontent.com/CyberOrigin2077/.github/main/profile/banner.svg" alt="CYBERORIGIN — Ground Truth for Embodied Intelligence" width="100%" />
 
 ### THE ORIGIN POINT OF MACHINE REALITY
 
@@ -9,7 +9,7 @@
 
 ![Singapore](https://img.shields.io/badge/SINGAPORE-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=00E5FF)
 [![Website](https://img.shields.io/badge/CYBERORIGIN.AI-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=FF003C)](https://cyberorigin.ai)
-[![Contact](https://img.shields.io/badge/CONTACT-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=B388FF)](mailto:contact@cyberorigin.ai)
+[![Contact](https://img.shields.io/badge/CONTACT-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=FF9E00)](mailto:contact@cyberorigin.ai)
 ![Hiring](https://img.shields.io/badge/WE'RE_HIRING-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=00FF9C)
 
 </div>
@@ -97,7 +97,7 @@ We open-source what makes the entire field move faster:
 
 ### Build it with us. Or build on it.
 
-🌐 **[cyberorigin.ai](https://cyberorigin.ai)** · ✉️ **contact@cyberorigin.ai** · 💼 **We're hiring**
+**`[ WEB ]`** [cyberorigin.ai](https://cyberorigin.ai) ⟐ **`[ COMMS ]`** contact@cyberorigin.ai ⟐ **`[ HIRING ]`** open positions
 
 <sub>⟁ CYBERORIGIN · SINGAPORE · WE TEACH MACHINES THE PHYSICAL WORLD ⟁</sub>
 
